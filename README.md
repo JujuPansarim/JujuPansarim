@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil  💚
 
-<!--
-**JujuPansarim/JujuPansarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Juliana Pansarim
 
-Here are some ideas to get you started:
+- Estou estudando o [Alura](https://www.alura.com.br);
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 Eu estou cursando a terceira serie do ensino medio
-- 🌱 Tenho 18 anos
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo: 💌
+0000108720706xsp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/tGj8azDuoDQAAAAC/%D9%83%D9%8A%D9%84%D9%88%D8%A7-killua-zolduck.gif)
